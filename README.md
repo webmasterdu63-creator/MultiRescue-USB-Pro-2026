@@ -11,7 +11,10 @@ une clé USB bootable contenant :      Tiny11 (Windows ultra‑léger)      et L
   <img src="https://img.shields.io/badge/Function-Recovery%20%26%20Repair-orange" alt="Function">
 </p>
 
----
+## 🎨 Theme & UI
+This project uses the **Earth and Moon** GRUB theme.
+* **Theme Repository**: [Lien vers TON fork ici]
+* **Installation**: Copy the content of the theme repository into `/ventoy/theme/earth-moon/` on your USB drive.
 
 ## 🚀 About MultiRescue-USB-Pro-2026
 **MultiRescue-USB-Pro-2026** is the ultimate bootable USB toolkit designed for system recovery, diagnostics, and repair across Windows, Linux, and macOS environments. This project aims to provide a comprehensive, all-in-one solution for IT professionals and power users.
