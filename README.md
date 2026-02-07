@@ -1,4 +1,4 @@
-# MultiRescue-USB-Pro-2026
+# Multi-Rescue-USB-Pro-2026
 une clé USB bootable contenant :      Tiny11 (Windows ultra‑léger)      et Linux Mint XFCE (léger, stable, parfait pour le dépannage)      + un pack d’outils AdminSys      + un thème circuit board pour rester dans ton branding      + un menu de démarrage propre
 <p align="center">
   <img src="https://github.com/webmasterdu63-creator/MultiRescue-USB-Pro-2026/blob/main/USB2026.jpg " width="200" alt="MultiRescue USB Pro 2026 Logo">
