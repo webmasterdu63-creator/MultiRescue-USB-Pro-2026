@@ -1,0 +1,24 @@
+{
+    "control": [
+        { "VTO_MENU_LANGUAGE": "fr_FR" },
+        { "VTO_DEFAULT_SEARCH_ROOT": "/iso" },
+        { "VTO_MENU_STYLE": "1" },
+        { "VTO_TEXT_COLOR": "cyan" }
+    ],
+    "theme": {
+        "file": "/ventoy/theme/cyber-neon/theme.txt",
+        "gfxmode": "1920x1080",
+        "display_mode": "GUI",
+        "screen_resolution": "1920x1080"
+    },
+    "menu_alias": [
+        {
+            "image": "/iso/tiny11-rescue.iso",
+            "alias": "🛠️ Windows Rescue (Tiny11)"
+        },
+        {
+            "image": "/iso/linux-mint-xfce.iso",
+            "alias": "🐧 Linux Mint XFCE (Forensic & Admin)"
+        }
+    ]
+}
