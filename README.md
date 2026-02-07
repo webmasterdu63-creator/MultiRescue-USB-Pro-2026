@@ -29,3 +29,30 @@ USB_ROOT/
 │   ├── windows/    # Security, Network, Disk tools
 │   └── linux/      # Scripts, Forensic, Admin tools
 └── backgrounds/    # CircuitBoard branding assets
+🚀 Included Environments
+
+    Tiny11 Rescue Edition: A stripped-down, ultra-fast Windows environment for system repair.
+
+    Linux Mint XFCE: Lightweight and stable for network auditing and data recovery.
+
+    Custom Toolkits: Over 30+ portable utilities for malware removal, hardware diagnostics, and disk management.
+
+🔧 Deployment
+
+    Prepare Drive: Install Ventoy to your USB drive (GPT recommended).
+
+    Copy ISOs: Move your .iso files to the /iso folder.
+
+    Add Tools: Populate the /tools directory with your favorite portable apps.
+
+    Branding: Apply the CircuitBoard / TSSR Edition 2026 theme in ventoy.json.
+
+💻 Automation Scripts
+
+The drive includes pre-configured scripts for rapid intervention:
+
+    autorun.ps1: Automated Windows system diagnostic.
+
+    rescue.sh: Auto-mount partitions and Windows password reset via Linux.
+
+<p align="center"><i>"Building the future of IT Infrastructure, one boot at a time."</i></p>
