@@ -15,3 +15,17 @@ une clé USB bootable contenant :      Tiny11 (Windows ultra‑léger)      et L
 
 ## 🚀 About MultiRescue-USB-Pro-2026
 **MultiRescue-USB-Pro-2026** is the ultimate bootable USB toolkit designed for system recovery, diagnostics, and repair across Windows, Linux, and macOS environments. This project aims to provide a comprehensive, all-in-one solution for IT professionals and power users.
+## 📖 Overview
+The **MultiRescue-USB-Pro-2026** is a high-performance, multiboot recovery toolkit designed specifically for **TSSR (Technicien Supérieur Systèmes et Réseaux)** professionals. Powered by **Ventoy**, it provides a seamless interface to deploy OS installers, live rescue environments, and a comprehensive portable toolkit for Windows & Linux.
+
+## 🗂️ Drive Architecture
+```text
+USB_ROOT/
+├── ventoy/         # Bootloader configuration & themes
+├── iso/            # Operating System ISOs
+│   ├── tiny11-rescue.iso
+│   └── linux-mint-xfce.iso
+├── tools/          # Portable applications
+│   ├── windows/    # Security, Network, Disk tools
+│   └── linux/      # Scripts, Forensic, Admin tools
+└── backgrounds/    # CircuitBoard branding assets
