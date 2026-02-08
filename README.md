@@ -18,6 +18,43 @@ une clé USB bootable contenant :      Tiny11 (Windows ultra‑léger)      et L
     /iso/
    tiny11-rescue.iso
    linux-mint-xfce.iso
+🛠️ MultiRescue USB Pro 2026
+La clé ultime du technicien TSSR
+
+MultiRescue USB Pro 2026 est une clé USB multiboot professionnelle conçue pour les techniciens systèmes & réseaux, les administrateurs et les intervenants terrain.
+Elle combine légèreté, rapidité, automatisation et outils d’analyse avancés, le tout dans une interface personnalisée CircuitBoard TSSR Edition 2026.
+🔧 Contenu de la clé
+
+    Tiny11 Rescue — Windows ultra‑léger pour interventions rapides
+
+    Linux Mint XFCE — Environnement stable, complet et idéal pour le dépannage
+
+    Pack d’outils AdminSys — Réseau, stockage, sécurité, récupération
+
+    Scripts d’automatisation
+
+        autorun.ps1 → diagnostic Windows instantané
+
+        rescue.sh → reset mot de passe + montage partitions
+
+    Menu Ventoy personnalisé — Thème circuit board + navigation claire
+
+🎯 Objectif
+
+Offrir au technicien TSSR une solution portable, fiable et complète, capable de répondre à 95 % des situations de dépannage :
+
+    PC bloqué
+
+    Réinitialisation utilisateur
+
+    Analyse réseau
+
+    Récupération de données
+
+    Vérification système
+
+    Intervention sur site
+
 
 ## 🎨 Theme & UI
 This project uses the **Earth and Moon** GRUB theme.
