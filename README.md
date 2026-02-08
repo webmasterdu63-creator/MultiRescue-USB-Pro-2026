@@ -55,4 +55,3 @@ The drive includes pre-configured scripts for rapid intervention:
 
     rescue.sh: Auto-mount partitions and Windows password reset via Linux.
 
-<p align="center"><i>"Building the future of IT Infrastructure, one boot at a time."</i></p>
