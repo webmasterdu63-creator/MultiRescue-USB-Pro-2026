@@ -10,6 +10,14 @@ une clé USB bootable contenant :      Tiny11 (Windows ultra‑léger)      et L
   <img src="https://img.shields.io/badge/Type-Bootable%20USB-red" alt="Bootable USB">
   <img src="https://img.shields.io/badge/Function-Recovery%20%26%20Repair-orange" alt="Function">
 </p>
+🔗 Téléchargements officiels
+
+    Tiny11 : https://tiny11builder.github.io (tiny11builder.github.io in Bing)
+
+    Linux Mint XFCE : https://linuxmint.com/download.php (linuxmint.com in Bing)
+    /iso/
+   tiny11-rescue.iso
+   linux-mint-xfce.iso
 
 ## 🎨 Theme & UI
 This project uses the **Earth and Moon** GRUB theme.
