@@ -18,6 +18,7 @@ une clé USB bootable contenant :      Tiny11 (Windows ultra‑léger)      et L
     /iso/
    tiny11-rescue.iso
    linux-mint-xfce.iso
+
 🛠️ MultiRescue USB Pro 2026
 La clé ultime du technicien TSSR
 
