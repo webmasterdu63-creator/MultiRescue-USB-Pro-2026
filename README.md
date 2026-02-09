@@ -104,4 +104,39 @@ The drive includes pre-configured scripts for rapid intervention:
 
     rescue.sh: Auto-mount partitions and Windows password reset via Linux.
 
+🇬🇧 English Version: MultiRescue USB Pro 2026
+
+The ultimate multiboot toolkit for IT Technicians & Systems Administrators.
+📖 Overview
+
+MultiRescue USB Pro 2026 is a professional-grade, multiboot recovery drive designed for field interventions,
+system diagnostics, and network auditing. Powered by Ventoy, it provides a high-performance interface to deploy
+lightweight OS environments and a comprehensive portable toolkit.
+🔧 Included Environments
+
+    Tiny11 Rescue Edition: A stripped-down, ultra-fast Windows environment for rapid system repair.
+
+    Linux Mint XFCE: A stable, lightweight environment perfect for network auditing and data recovery.
+
+    Hiren’s BootCD: The legendary Swiss Army knife for PC troubleshooting.
+
+🛠️ Key Features
+
+    Custom TSSR Interface: Professional "CircuitBoard" theme for a clean, branded boot experience.
+
+    Automation Scripts:
+
+        autorun.ps1: Instant Windows system diagnostics.
+
+        rescue.sh: Automated partition mounting and password reset via Linux.
+
+    AdminSys Toolpack: Pre-loaded with 30+ portable utilities for hardware testing, malware removal, and disk management.
+
+🚀 Deployment Instructions
+
+    Prepare Drive: Install Ventoy to your USB drive (GPT recommended).
+
+    Add ISOs: Place your .iso files into the /iso/ folder.
+
+    Apply Branding: Copy the theme files to /ventoy/themes/ and update your ventoy.json.
 
