@@ -56,7 +56,18 @@ Offrir au technicien TSSR une solution portable, fiable et complète, capable de
     Vérification système
 
     Intervention sur site
+💻 Hardware Requirements / Spécifications Matérielles
 
+Pour profiter pleinement de la MultiRescue-USB-Pro-2026, le choix du support physique est crucial :
+
+    Recommandé : Clé USB 3.0 / 3.1 / 3.2 (Type-A ou Type-C).
+
+    Capacité minimale : 32 Go (pour accueillir Tiny11, Linux Mint et le pack d'outils).
+
+    Formatage : GPT (pour une compatibilité maximale avec les bios UEFI modernes).
+
+    Note : L'utilisation de supports USB 2.0 est fortement déconseillée. Les temps de chargement des ISO et l'exécution des outils 
+    portables seraient considérablement ralentis, impactant l'efficacité de vos dépannages.
 
 ## 🎨 Theme & UI
 This project uses the **Earth and Moon** GRUB theme.
