@@ -17,6 +17,7 @@ une clé USB bootable contenant :      Tiny11 (Windows ultra‑léger)      et L
     Linux Mint XFCE : https://linuxmint.com/download.php (linuxmint.com in Bing)
     /iso/
    tiny11-rescue.iso
+   
    linux-mint-xfce.iso
 
 🛠️ MultiRescue USB Pro 2026
